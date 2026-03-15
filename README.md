@@ -1,2 +1,2 @@
 # COM_470Android
-This wiki will cov er the version history of an App dreated for the class
+This wiki will cover the version history of an App created for the class
